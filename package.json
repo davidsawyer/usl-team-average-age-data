@@ -1,0 +1,12 @@
+{
+    "name": "usl-data",
+    "version": "1.0.0",
+    "description": "",
+    "main": "scrape.js",
+    "dependencies": {
+        "cheerio": "^0.22.0",
+        "moment": "^2.22.2",
+        "node-fetch": "2.1.2",
+        "underscore": "^1.8.3"
+    }
+}

@@ -1,0 +1,36 @@
+does team average age affect overall team performance?,,
+,,
+team,average age,current points per game,MLS owned
+Atlanta United 2,21.43243243,0.823529412,true
+Bethlehem Steel FC,21.26315789,1.263157895,true
+Charleston Battery,24.5,1.684210526,false
+Charlotte Independence,26.66666667,1.421052632,false
+Colorado Springs Switchbacks FC,25.28571429,1.19047619,false
+FC Cincinnati,27.70833333,2,false
+Fresno FC,25.74074074,1.333333333,false
+Indy Eleven,27.23809524,1.555555556,false
+LA Galaxy II,20.81818182,1,true
+Las Vegas Lights FC,25.74193548,1.111111111,false
+Louisville City FC,26.22222222,1.705882353,false
+Nashville SC,25.74074074,1.588235294,false
+New York Red Bulls II,21.88571429,1.473684211,true
+North Carolina FC,25.77272727,1.111111111,false
+OKC Energy FC,26.11111111,1.105263158,false
+Orange County SC,24.04,1.736842105,false
+Ottawa Fury FC,25.33333333,1.333333333,false
+Penn FC,25.40740741,1.315789474,false
+Phoenix Rising FC,25.41666667,1.842105263,false
+Pittsburgh Riverhounds SC,24.92,2,false
+Portland Timbers 2,21.95454545,1.526315789,true
+Real Monarchs SLC,23.44444444,2.157894737,true
+Reno 1868 FC,23.57575758,1.85,false
+RGVFC Toros,22.89189189,1,false
+Richmond Kickers,25.31034483,0.888888889,false
+Sacramento Republic FC,23.16,1.714285714,false
+Saint Louis FC,23.32142857,1.210526316,false
+San Antonio FC,26.56,1.294117647,false
+Seattle Sounders FC 2,20.23809524,0.647058824,true
+Swope Park Rangers,21.91666667,1.631578947,true
+Tampa Bay Rowdies,27.65517241,1.222222222,false
+Toronto FC II,20.66666667,0.176470588,true
+Tulsa Roughnecks FC,24.75,0.684210526,false
